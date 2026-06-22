@@ -112,6 +112,7 @@ body {
 .landing-img {
   height: 240px;
   object-fit: cover;
+  object-position: top;
   background: #0f172a;
 }
 
