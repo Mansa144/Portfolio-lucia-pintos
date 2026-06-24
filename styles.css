@@ -114,6 +114,7 @@ body {
   object-fit: cover;
   object-position: top;
   background: #0f172a;
+  object-position: 50% 20%;
 }
 
 .navbar-img {
